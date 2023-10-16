@@ -1,4 +1,4 @@
-function onClick() {
+function handleClick() {
   const closedIcon = document.querySelector(
     'ion-icon[name="lock-closed-outline"]'
   );
